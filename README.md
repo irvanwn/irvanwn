@@ -5,7 +5,7 @@ Lifelong Learner, currently working as web developer.
 <p>
     - ⌨️: VortexSeruies VX7 pro </br>
     - 🖱️: Logitech G102 Lightsync</br>
-    - 📫: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
+    - 📫: How to reach me:</br>
     - 💻: Asus FX505GT Intel Core I5-9300h GTX 1650 Mobile </br>
     - 🖥️: Asus VG249Q </br>
     - 🎐: Maspion F23D </br>
