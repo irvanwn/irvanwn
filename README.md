@@ -23,4 +23,4 @@ Lifelong Learner, currently working as web developer.
 
 ### Reach me on
 - <a href="https://linkedin.com/in/nicholas-irvan-winata/">LinkedIn</a>
-- <a href="https://instagram/irvanwn_">instagram</a>
+- <a href="https://instagram.com/irvanwn_">instagram</a>
