@@ -13,7 +13,14 @@ Lifelong Learner, currently working as web developer.
 
 
  
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/irvanwn/">
-  <i data-feather="circle"></i>
+### Github Statistic
+<p align="left">
+<a href="https://github.com/irvanwn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+### Reach me on
+- <a href="https://linkedin.com/in/nicholas-irvan-winata/">LinkedIn</a>
+- <a href="https://instagram/dimsmds">instagram</a>
