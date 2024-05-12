@@ -1,16 +1,19 @@
-### Hi there 👋
+# <summary><strong>Hi there :wave: , I'm Irvan!</strong></summary>
+Lifelong Learner, currently working as web developer.
 
-<!--
-**irvanwn/irvanwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <summary><strong>Gears:</strong></summary>
+<p>
+    - ⌨️: VortexSeruies VX7 pro </br>
+    - 🖱️: Logitech G102 Lightsync</br>
+    - 📫: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
+    - 💻: Asus FX505GT Intel Core I5-9300h GTX 1650 Mobile </br>
+    - 🖥️: Asus VG249Q </br>
+    - 🎐: Maspion F23D </br>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+### <summary><strong>Let's connect!</strong></summary>
+<a href="https://www.instagram.com/irvanwn/">
+  <i data-feather="circle"></i>
+</a>
