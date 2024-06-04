@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Irvan!</strong></summary>
-Currently studying Informatics Engineering at Satya Wacana Christian university
+Currently studying informatics engineering at Satya Wacana Christian University.
 ### <summary><strong>Gears:</strong></summary>
 <p>
     - ⌨️: VortexSeruies VX7 pro </br>
