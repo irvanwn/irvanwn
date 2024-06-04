@@ -1,6 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Irvan!</strong></summary>
-Lifelong Learner, currently working as web developer.
-
+Currently studying Informatics Engineering at Satya Wacana Christian university
 ### <summary><strong>Gears:</strong></summary>
 <p>
     - ⌨️: VortexSeruies VX7 pro </br>
